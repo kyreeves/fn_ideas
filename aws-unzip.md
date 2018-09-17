@@ -4,4 +4,4 @@ Files are extracted in place in the same bucket as where the zip file was upload
 
 References:
 
-- [https://github.com/Craftware/aws-lambda-unzip]
+- https://github.com/Craftware/aws-lambda-unzip
